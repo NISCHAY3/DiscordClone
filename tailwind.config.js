@@ -9,6 +9,7 @@ module.exports = {
     Whitney: ["Whitney"],
     Ginto: ["Ginto"],
     ggSans: ["ggSans"],
+    GintoNord: ["GintoNord"],
   },
 }
 
